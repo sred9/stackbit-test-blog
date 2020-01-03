@@ -1,1 +1,10 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "Languages",
+      "title": "Java",
+      "url": "/java",
+      "weight": 1
+    }
+  ]
+}
